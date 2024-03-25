@@ -1,7 +1,7 @@
 ##  TruCritic
 TruCritic is a review network that allows users to review and rate products and services. It is built on the Solana blockchain and uses the cNFTs as receipts to review or rate restaurants.
 
-![Twitter](https://img.shields.io/twitter/follow/TruCritic_xyz?label=JhiNResH&style=social)
+![Twitter](https://img.shields.io/twitter/follow/TruCritic_xyz?label=TruCritic&style=social)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:trucritic.recivo@gmail.com)
 
 &nbsp;
