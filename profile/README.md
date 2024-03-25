@@ -13,6 +13,9 @@ A receipt carriers for cNFT receipts which allows you to review on TruCritic. ðŸ
 ðŸŒˆ Contribution guidelines - how can the community get involved?
 -->
 
+![trucritic1](https://github.com/TruCritic/.github/assets/100179469/935eecf1-6c71-4a8d-9ffe-2083d1a7d74a)
+
+
 <p align="center">
   <img alt="HitCount" src="http://hits.dwyl.com/TruCritic/Trucritic.svg" />
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
