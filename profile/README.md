@@ -3,7 +3,7 @@ TruCritic is a review network that allows users to review and rate products and 
 
 
 ## Recivo
-A receipt carriers for cNFT receipts which allows you to review on TruCritic. 👋
+A receipt carriers for cNFT receipts which allows you to review on TruCritic.
 
 [![Twitter](https://img.shields.io/twitter/follow/TruCritic_xyz?label=TruCritic&style=social)](https://twitter.com/TruCritic_xyz)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:trucritic.recivo@gmail.com)
