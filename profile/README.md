@@ -1,13 +1,17 @@
 ##  TruCritic
 TruCritic is a review network that allows users to review and rate products and services. It is built on the Solana blockchain and uses the cNFTs as receipts to review or rate restaurants.
 
+![Twitter](https://img.shields.io/twitter/follow/TruCritic_xyz?label=JhiNResH&style=social)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:trucritic.recivo@gmail.com)
+
+&nbsp;
+
 ## Recivo
 A receipt carriers for cNFT receipts which allows you to review on TruCritic. 👋
 
 
 🌈 Contribution guidelines - how can the community get involved?
-![Twitter](https://img.shields.io/twitter/follow/TruCritic_xyz?label=JhiNResH&style=social)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:trucritic.recivo@gmail.com)
+
 
 <p align="center">
   <img alt="HitCount" src="http://hits.dwyl.com/TruCritic/Trucritic.svg" />
